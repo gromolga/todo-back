@@ -1,0 +1,4 @@
+ormconfig.json
+.idea/
+node_modules/
+dist/
